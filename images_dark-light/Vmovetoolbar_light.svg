@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="2.0000305"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1-beta1 (77e7b44d, 2021-03-28)"
+   sodipodi:docname="Vmovetoolbar_light.svg"
+   viewBox="0 0 20 2.0000305"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#c0c0c0"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="37.597544"
+     inkscape:cx="9.5883923"
+     inkscape:cy="-0.47875468"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     guidecolor="#0092ff"
+     guideopacity="0.49803922"
+     guidehicolor="#ff5200"
+     guidehiopacity="0.49803922"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     borderlayer="true"
+     units="px"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2242"
+       originx="2.000057"
+       originy="-3.9999688"
+       enabled="true"
+       spacingx="0.49999999"
+       spacingy="0.49999999"
+       empspacing="2"
+       color="#f5f5f5"
+       opacity="0.0627451"
+       empcolor="#c6c6ff"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pablo Gil</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>SVG</rdf:li>
+            <rdf:li>template</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1072.0663,-346.59796)">
+    <circle
+       style="fill:#fdfdfd;fill-opacity:0.15000001;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-opacity:0.47;paint-order:markers fill stroke"
+       id="path1276"
+       cx="347.59796"
+       cy="-1087.0662"
+       r="1"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#fdfdfd;fill-opacity:0.15000001;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-opacity:0.47;paint-order:markers fill stroke"
+       id="circle1536"
+       cx="347.59796"
+       cy="-1082.0662"
+       r="1"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#fdfdfd;fill-opacity:0.15000001;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-opacity:0.47;paint-order:markers fill stroke"
+       id="circle1538"
+       cx="347.59796"
+       cy="-1077.0662"
+       r="1"
+       transform="rotate(90)" />
+  </g>
+</svg>
