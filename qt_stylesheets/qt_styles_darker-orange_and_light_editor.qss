@@ -1829,6 +1829,7 @@ QToolBar > QToolButton:pressed {
 }
 
 QToolBar > QToolButton:disabled {
+    color: rgba(0,0,0,80); /* important in order to overide the default QToolButton style */
     background-color: transparent; /* important in order to overide the default QToolButton style */
     border-color: transparent; /* important in order to overide the default QToolButton style */
 
