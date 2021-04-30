@@ -1,7 +1,7 @@
 /*
 ABOUT
 ============================================================================================================
-version 1.0
+version 1.1
 Qt theme (stylesheet) specially developed for Sigil (https://sigil-ebook.com/) and deeply based on themes developed for FreeCAD (https://www.freecadweb.org/) by the same developer.
 It might work with other software that uses Qt styling.
 
@@ -668,6 +668,40 @@ QTabBar::tab:last:selected {
 
 QTabBar::tab:only-one {
     margin: 0; /* if there is only one tab, we don't want overlapping margins */
+}
+
+
+/*==================================================================================================
+Default Tool buttons
+==================================================================================================*/
+QToolButton {
+    color: #6e6e6e;
+    text-align: center;
+    background-color: qlineargradient(spread:pad, x1:0, y1:0.3, x2:0, y2:1, stop:0 #f5f5f5, stop:1 #e6e6e6);
+    border: 1px solid #d2d2d2;
+    border-bottom-color: #c3c3c3; /* simulates shadow under the button */
+    padding: 0px; /* different than regular QPushButton */
+    margin: 2px; /* different than regular QPushButton */
+    min-height: 16px; /* same as QTabBar QPushButton min-width */
+    border-radius: 4px;
+}
+
+QToolButton:hover,
+QToolButton:focus {
+    color: white;
+    border-color: #d0970c;
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #daa116, stop:1 #d0970c);
+}
+
+QToolButton:disabled,
+QToolButton:disabled:checked {
+    color: #b6b6b6;
+    border-color: #e6e6e6;
+    background-color: #e6e6e6;
+}
+
+QToolButton:pressed {
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #d0970c, stop:1 #daa116);
 }
 
 
@@ -1708,17 +1742,29 @@ QToolBar > QPushButton:!checked:disabled {
 }
 
 QToolBar > QToolButton {
+    color: #505050;  /* this color sets the text color and dropdown arrow color. Important in order to overide the default QToolButton style */
+    background-color: #f5f5f5; /* important in order to overide the default QToolButton style */
+    border-color: #f5f5f5; /* important in order to overide the default QToolButton style */
     margin: 2px;
     padding: 2px;
     border-radius: 3px;
 }
 
 QToolBar > QToolButton:hover {
+    color: black;
     background-color: rgba(0,0,0,20);
+    border-color: transparent; /* important in order to overide the default QToolButton style */
 }
 
 QToolBar > QToolButton:pressed {
     background-color: rgba(0,0,0,30);
+    border-color: transparent; /* important in order to overide the default QToolButton style */
+}
+
+QToolBar > QToolButton:disabled {
+    background-color: transparent; /* important in order to overide the default QToolButton style */
+    border-color: transparent; /* important in order to overide the default QToolButton style */
+
 }
 
 QToolBar > QToolButton::menu-arrow {
