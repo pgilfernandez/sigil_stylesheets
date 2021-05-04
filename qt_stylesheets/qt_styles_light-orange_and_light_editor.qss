@@ -46,6 +46,29 @@ INSTALLATION
     code_view_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcd\x41)a9\xc4\0\0)
     code_view_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
 
+And this other group of lines:
+
+    cv_dark_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0\xa0\xa0\xaa\xaa\0\0)
+    cv_dark_css_property_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_css_quote_color=@Variant(\0\0\0\x43\x1\xff\xff\x64\x64\xa0\xa0ZZ\0\0)
+    cv_dark_css_selector_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0<<\xa0\xa0\0\0)
+    cv_dark_css_value_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_font_family_standard=Courier New
+    cv_dark_font_size=18
+    cv_dark_highlight_open_close_tags=true
+    cv_dark_line_highlight_color=@Variant(\0\0\0\x43\x1\xff\xff\xe8\xe8\xe8\xe8\xe8\xe8\0\0)
+    cv_dark_line_number_background_color=@Variant(\0\0\0\x43\x1\xff\xff\xdc\xdc\xdc\xdc\xdc\xdc\0\0)
+    cv_dark_line_number_foreground_color=@Variant(\0\0\0\x43\x1\xff\xff\xaa\xaa\xaa\xaa\xb4\xb4\0\0)
+    cv_dark_spelling_underline_color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\0\0\0\0\0\0)
+    cv_dark_xhtml_attribute_name_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_xhtml_attribute_value_color=@Variant(\0\0\0\x43\x1\xff\xff\x64\x64\xa0\xa0ZZ\0\0)
+    cv_dark_xhtml_css_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_xhtml_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0\xa0\xa0\xaa\xaa\0\0)
+    cv_dark_xhtml_doctype_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_xhtml_entity_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcd\x41)a9\xc4\0\0)
+    cv_dark_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
+
 From there you can tweak the colors from the Sigil Preferences user interface at your will.
 
 

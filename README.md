@@ -53,6 +53,31 @@ Installation
     code_view_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcc\xccO\\\\\x92\0\0)
     code_view_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
     ```
+    And this other group of lines:
+    ```
+    cv_dark_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65xn#\x80\0\0\0)
+    cv_dark_css_property_color=@Variant(\0\0\0\x43\x1\xff\xff\xc8\xaf\xd2z\xe6\x66\0\0)
+    cv_dark_css_quote_color=@Variant(\0\0\0\x43\x1\xff\xff\xa7\xd1\xe6\x66\x7f\n\0\0)
+    cv_dark_css_selector_color=@Variant(\0\0\0\x43\x1\xff\xff\xc7\xbb\x63\xef\xe6\x66\0\0)
+    cv_dark_css_value_color=@Variant(\0\0\0\x43\x1\xff\xff\xe6\x66\xa0$b\b\0\0)
+    cv_dark_font_family_standard=Courier New
+    cv_dark_font_size=18
+    cv_dark_highlight_open_close_tags=true
+    cv_dark_line_highlight_color="@Variant(\0\0\0\x43\x1\xff\xff.\xb2\x33\x9c=p\0\0)"
+    cv_dark_line_number_background_color=@Variant(\0\0\0\x43\x1\xff\xff&\xda+\x2\x33Q\0\0)
+    cv_dark_line_number_foreground_color=@Variant(\0\0\0\x43\x1\xff\xffGLM\x9eZ@\0\0)
+    cv_dark_spelling_underline_color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\0\0\0\0\0\0)
+    cv_dark_xhtml_attribute_name_color=@Variant(\0\0\0\x43\x1\xff\xff\xe6\x66\x9f\xf9\x61\xfe\0\0)
+    cv_dark_xhtml_attribute_value_color=@Variant(\0\0\0\x43\x1\xff\xff\x95\x80\xcc\xccp\xa4\0\0)
+    cv_dark_xhtml_css_color=@Variant(\0\0\0\x43\x1\xff\xff\xc8r\xd2n\xe6\x66\0\0)
+    cv_dark_xhtml_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
+    cv_dark_xhtml_doctype_color=@Variant(\0\0\0\x43\x1\xff\xff\xc8r\xd2n\xe6\x66\0\0)
+    cv_dark_xhtml_entity_color=@Variant(\0\0\0\x43\x1\xff\xff\xe6\x66\xa0[c\x12\0\0)
+    cv_dark_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcc\xccO\\\\\x92\0\0)
+    cv_dark_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
+    ```
+
+
 
     - if you have chosen a stylesheet with a light editor:
 
@@ -76,6 +101,29 @@ Installation
     code_view_xhtml_entity_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
     code_view_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcd\x41)a9\xc4\0\0)
     code_view_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
+    ```
+    And this other group of lines:
+    ```
+    cv_dark_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0\xa0\xa0\xaa\xaa\0\0)
+    cv_dark_css_property_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_css_quote_color=@Variant(\0\0\0\x43\x1\xff\xff\x64\x64\xa0\xa0ZZ\0\0)
+    cv_dark_css_selector_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0<<\xa0\xa0\0\0)
+    cv_dark_css_value_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_font_family_standard=Courier New
+    cv_dark_font_size=18
+    cv_dark_highlight_open_close_tags=true
+    cv_dark_line_highlight_color=@Variant(\0\0\0\x43\x1\xff\xff\xe8\xe8\xe8\xe8\xe8\xe8\0\0)
+    cv_dark_line_number_background_color=@Variant(\0\0\0\x43\x1\xff\xff\xdc\xdc\xdc\xdc\xdc\xdc\0\0)
+    cv_dark_line_number_foreground_color=@Variant(\0\0\0\x43\x1\xff\xff\xaa\xaa\xaa\xaa\xb4\xb4\0\0)
+    cv_dark_spelling_underline_color=@Variant(\0\0\0\x43\x1\xff\xff\xff\xff\0\0\0\0\0\0)
+    cv_dark_xhtml_attribute_name_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_xhtml_attribute_value_color=@Variant(\0\0\0\x43\x1\xff\xff\x64\x64\xa0\xa0ZZ\0\0)
+    cv_dark_xhtml_css_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_xhtml_css_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\xa0\xa0\xa0\xa0\xaa\xaa\0\0)
+    cv_dark_xhtml_doctype_color=@Variant(\0\0\0\x43\x1\xff\xff\x32\x32\x32\x32<<\0\0)
+    cv_dark_xhtml_entity_color=@Variant(\0\0\0\x43\x1\xff\xff\xaf\xafnn((\0\0)
+    cv_dark_xhtml_html_color=@Variant(\0\0\0\x43\x1\xff\xff\xcd\x41)a9\xc4\0\0)
+    cv_dark_xhtml_html_comment_color=@Variant(\0\0\0\x43\x1\xff\xff\x65\x1en\x14\x80\0\0\0)
     ```
 
 
